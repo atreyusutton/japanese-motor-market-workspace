@@ -1,0 +1,12 @@
+.DS_Store
+.claude/settings.local.json
+node_modules/
+.env
+.env.*
+
+# App source lives in its own repo: atreyusutton/japanese-motor-market
+/japanese-motor-market/
+
+# ~311MB of regenerable scraper output, kept local
+/japanese-scrapper/data/
+/japanese-scrapper/data-older-1y/
